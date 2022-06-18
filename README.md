@@ -4,3 +4,5 @@
 ![image](https://user-images.githubusercontent.com/93235055/174450550-fb150fe5-c5c3-4bde-be78-faa033edd442.png)
 ![image](https://user-images.githubusercontent.com/93235055/174450617-a6b2436c-7b7b-4210-9dee-d045bf605c89.png)
 
+## O Forms foi inspirado e adaptado através do vídeo da Larissa Kich.
+## Link: https://www.youtube.com/watch?v=zWw0npNDkVM&t=366s&ab_channel=LarissaKich
